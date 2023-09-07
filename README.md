@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/13quBJDr3GY2lK__t6jjsk2jBJxZj0BTi/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='android recordingProject1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
