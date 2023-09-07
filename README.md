@@ -1,4 +1,4 @@
-# CounterApp
+# Wordle App
 # Android Project 1 - *WordleApp*
 
 Submitted by: **David Oluyomi-Lords**
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/19YSDmlHh_1JN2pmOFLqOyQztYv6MTurn/view?usp=drive_link' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/13quBJDr3GY2lK__t6jjsk2jBJxZj0BTi/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
